@@ -1,0 +1,713 @@
+
+/* ------------------------------------ XXL ------------------------------- */
+@media (max-width:1440px){
+    /* .container{
+        padding: 0 15px; */
+    /* } */
+
+    .packages .packages-card{
+        bottom: -225px;
+    }
+
+    .works{
+        padding-top: 180px;
+    }
+
+    .package-content h2 {
+        font-size:px ;
+    }
+}
+
+/* ------------------------------- XL ------------------------------ */
+@media (max-width:1200px){
+    .container{
+        padding: 0 15px;
+    }
+
+    .banner h1{
+        font-size: 70px;
+    }
+
+    .banner p{
+        font-size: 14px;
+    }
+
+    .banner a{
+        padding: 15px 20px;
+    }
+
+    .completed .complete-heading h2{
+        font-size: 185px;
+    }
+
+    .completed .complete-heading h3{
+        font-size: 40px;
+    }
+
+    .trend-left h2{
+        font-size: 40px;
+    }
+
+    .trend-left{
+        height: auto;
+    }
+
+    .packages{
+        height: 100%;
+        padding: 20px 0;
+    }
+
+    .package-content h2{
+        font-size: 34px;
+    }
+
+    .package-content p{
+        font-size: 14px;
+    }
+
+    .packages .packages-card{
+        bottom: -5%;
+    }
+
+}
+
+/* --------------------------------- LG ----------------------- */
+@media(max-width:992px){
+
+    .w-lg-2{
+        width: 50%;
+    }
+
+    /* ------------------- BANNER */
+    .banner h1{
+        font-size: 55px;
+    }
+
+    .banner p{
+        font-size: 12px;
+    }
+
+    .about-us{
+        padding: 50px 0;
+    }
+    .banner p {
+        font-size: 14px;
+    }
+
+    .banner a {
+        padding: 15px 30px;
+    }
+
+    /* ---------------- ABOUT */
+    .about-right-image{
+        margin: 25px;
+    }
+
+    .modern h3{
+        font-size: 30px;
+    }
+
+    .modern p{
+        font-size: 14px;
+    }
+
+    .modern button a{
+        padding: 15px 30px;
+    }
+
+
+    .completed .complete-heading h2 {
+        font-size: 150px;
+    }
+
+    .completed .complete-heading h3 {
+        font-size: 35px;
+    }
+
+    .completed .complete-heading h6{
+        font-size: 33px;
+    }
+
+    .trend-cup{
+        top: -33px;
+        left: -91px;
+    }
+
+    .packages-card .w-4{
+        margin-bottom: 20px;
+    }
+
+    .packages .packages-card {
+        bottom: 12%;
+    }
+
+    .works{
+        padding-top: 430px;
+    }
+
+    .team .team-heading h3{
+        font-size: 210px;
+    }
+
+    .blog .blog-heading h3{
+        font-size: 220px;
+    }
+}
+
+
+
+/* ------------------------------ MD ----------------------------- */
+@media (max-width:768px){
+    .banner h1{
+        font-size: 58px;
+    }
+
+    .w-md-1{
+        width:100%;
+    }
+
+    .w-md-2{
+        width:50%;
+    }
+
+    .about-right-image{
+        margin: 100px;
+    }
+
+    .slider-image .main-slider{
+        height: inherit;
+        width: 550px;
+    }
+
+    .slider-image .main-slider{
+        line-height:  inherit;
+        font-size: 120px;
+    }
+
+    .completed .complete-heading h3{
+        font-size: 28px;
+    }
+    .completed .complete-heading h2{
+        font-size: 120px;
+        top: 10px;
+    }
+    .trend-left{
+        height: 500px;
+        background-size: contain;
+        background-repeat: repeat-x;
+    }
+
+    .trend-right img{
+        width: 90%;
+    }
+
+    .trend-cup{
+        left: -10px;
+    }
+
+    .trend-pencil{
+        right: 60px;
+    }
+
+    .package-content p{
+        padding: 0 90px;
+    }
+
+    .package-content h2{
+        font-size: 28px;
+    }
+
+     .packages .packages-card {
+         bottom: -7%;
+     }
+    .works {
+        padding-top: 584px;
+        padding-bottom: 20px;
+    }
+
+    .works h2 {
+        font-size: 30px;
+    }
+
+    .steps-cards h2{
+        font-size: 90px;
+    }
+
+    .steps-cards h4{
+        font-size: 17px;
+    }
+
+    .steps-cards p{
+        font-size: 14px;
+    }
+
+    .more{
+        background-position-x: -200px;
+    }
+
+    .circle h2{
+        font-size: 32px;
+    }
+
+    .experience .w-4{
+        padding: 20px 0;
+    }
+
+    .team-img h5{
+        margin-bottom: 20px;
+    }
+
+    .team-img h4{
+        margin-top: 10px;
+    }
+
+    .blog{
+        padding: 50px 0;
+    }
+  
+}
+
+/* ------------------------------------------- SM --------------------------- */
+@media (max-width:576px){
+
+    .w-sm-1{
+        width: 100%;
+    }
+
+    .w-sm-2{
+        width: 50%;
+    }
+
+    .social_icon{
+        top: 90%;
+        bottom: 0;
+        right: inherit;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .social_icon ul{
+        display: flex;
+    }
+
+    .social_icon ul li a{
+        padding: 20px;
+    }
+    .about-right-image {
+        margin: 50px;
+    }
+
+    .completed .complete-heading{
+        padding: 50px;
+    }
+    .completed .complete-heading h2{
+        line-height: 0;
+        top: 93px;
+        font-size: 92px;
+    }
+
+    .slider-image .main-slider{
+        width: 500px;
+    }
+
+    .trends{
+        padding: 40px 0;
+    }
+
+    .trend-left h2{
+        font-size: 33px;
+    }
+
+    .trend-left p{
+        font-size: 16px;
+    }
+
+    .trend-right img {
+        width: 85%;
+    }
+
+    .trend-cup{
+        height: 167px;
+        width: 183px;
+    }
+
+    .trend-goggles{
+        background-size: contain;
+        height: 90px;
+    }
+
+    .trend-pencil{
+        height: 160px;
+        top: 35%;
+        right: 40px;
+    }
+
+     .package-content p {
+         padding: 0 50px;
+         font-size: 12px;
+     }
+
+
+      .works {
+          padding-top: 620px;
+      }
+
+      .more .w-2{
+          padding: 20px;
+      }
+
+      .experience .w-4{
+          padding: 20px 0;
+      }
+
+      .team .team-heading h3 {
+          font-size: 152px;
+          top: -106px;
+      }
+
+      .team .team-heading h2{
+          font-size: 32px;
+      }
+
+      .team .team-heading h6{
+          font-size: 26px;
+      }
+
+      .blog .blog-heading h3 {
+          font-size: 166px;
+      }
+
+      .blog .blog-heading h2{
+          font-size: 38px;
+      }
+
+      .blog .blog-heading h6{
+          font-size: 30px;
+      }
+
+      .blog .blog-heading h3{
+          top: 38px;
+      }
+
+      .subscribe h3{
+          font-size: 22px;
+      }
+
+      input{
+          padding: 10px;
+          width: 235px;
+      }
+
+      .email button a{
+          padding: 15px 20px;
+          font-size: 12px;
+      }
+}
+
+/* ------------------------------- 420 -------------------------- */
+@media (max-width:420px){
+
+    .w-420-1{
+        width: 100%;
+    }
+
+    .banner h1{
+        font-size: 38px;
+    }
+    .banner p{
+        font-size: 12px;
+    }
+    .banner a{
+        padding: 13px 18px;
+        font-size: 12px;
+    }
+
+    .about-left h2{
+        font-size: 32px;
+    }
+
+    .about-left p{
+        font-size: 14px;
+    }
+
+    .about-right-image {
+        margin: 10px;
+    }
+
+    .about-left button a{
+        padding: 15px 20px;
+        font-size: 12px;
+    }
+
+    .about-video{
+        padding: 15px 25px;
+    }
+
+    .completed .complete-heading h2{
+        display: none;
+    }
+
+    .slider-image .main-slider{
+        width: 360px;
+    }
+
+    .completed .complete-heading{
+        padding: 0;
+    }
+
+    .slider-image h3{
+        margin: 0;
+    }
+
+
+    .trend-left h2 {
+        font-size: 26px;
+    }
+
+    .trend-right img {
+        width: 90%;
+    }
+
+    .trend-cup{
+        height: 130px;
+    }
+
+    .trend-pencil {
+        height: 117px;
+        top: 35%;
+        right: -21px;
+    }
+
+    .trend-goggles{
+        height: 70px;
+    }
+
+    .package-content h2 {
+        font-size: 22px;
+    }
+
+    .package-content p {
+        padding: 0 26px;
+        font-size: 12px;
+    }
+
+    .packages .packages-card {
+        bottom: -10%;
+    }
+
+    .works{
+        padding-top: 1600px;
+        
+    }
+
+    .steps-cards .w-4 {
+        padding: 10px;
+    }
+
+    .works h2{
+        margin-top: 30px;
+        font-size: 24px;
+    }
+
+
+    .steps-cards h2{
+        margin: -10px;
+        font-size: 60px;
+    }
+
+    .steps-cards{
+        padding-bottom: 50px;
+    }
+
+    .more h2{
+        font-size: 33px;
+    }
+
+    .more button a{
+        padding: 15px 30px;
+    }
+
+    .more{
+        padding: 50px 0;
+    }
+
+
+    .experience{
+        padding: 50px 0;
+    }
+
+    .border{
+        padding: 12px;
+    }
+
+    .team-img h4{
+        font-size: 18px;
+    }
+
+    .team-img{
+        margin-top: 60px;
+    }
+
+    .team .team-heading h3 {
+        font-size: 129px;
+        line-height: 129px;
+        top: -26px;
+    }
+
+    .team{
+        padding: 50px 0;
+    }
+
+    .blog .blog-heading h3 {
+        font-size: 136px;
+    }
+
+    .blog .blog-heading h2 {
+        font-size: 32px;
+    }
+
+    .blog .blog-heading h6 {
+        font-size: 26px;
+    }
+
+    .subscribe h3 {
+        font-size: 19px;
+    }
+
+}
+
+
+/* ------------------- 320 ------------------ */
+@media (max-width:320px){
+    .social_icon {
+        top: 90%;
+        bottom: 0;
+        right: inherit;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .w-320-1{
+        width: 100%;
+    }
+
+    .banner h1{
+        font-size: 32px;
+    }
+
+    .banner p{
+        max-width: inherit;
+        padding: 0 10px;
+    }
+
+    .banner a{
+        font-size: 10px;
+    }
+
+    .about-right-image{
+        margin: 0;
+    } 
+
+     .trends {
+         padding: 0;
+     }
+
+     .trend-right{
+         padding-bottom: 50px;
+     }
+
+     .trend-right img {
+         width: 100%;
+     }
+
+     .trend-cup {
+         height: 108px;
+     }
+
+     .trend-goggles {
+         height: 53px;
+         left: 22%;
+     }
+
+     .trend-pencil {
+         height: 98px;
+         top: 41%;
+         right: -63px;
+     }
+
+     .packages .packages-card {
+         bottom: -13%;
+     }
+
+     .works {
+         padding-top: 1388px;
+     }
+
+     .works h2 {
+         margin-top: 300px;
+     }
+
+     .steps-cards h2{
+         margin: 0;
+     }
+
+     .steps-cards .w-4 {
+         padding: 5px;
+     }
+
+
+     .more h2 {
+         font-size: 23px;
+     }
+     .more p{
+         font-size: 14px;
+     }
+
+     .team-img .main-img{
+         padding: 5px;
+     }
+
+     .team .team-heading h3{
+         font-size: 94px;
+     }
+
+     .team .team-heading h6 {
+         font-size: 22px;
+     }
+
+     .team .team-heading h2 {
+         font-size: 24px;
+     }
+
+     .team .team-heading h3 {
+         top: -34 px;
+     }
+
+     .team-img h4 {
+         font-size: 15px;
+     }
+
+     .team-img h4 {
+         font-size: 15px;
+     }
+
+     .team-img h5 {
+         font-size: 12px;
+     }
+
+     .blog .blog-heading h3 {
+         font-size: 102px;
+     }
+
+     .blog .blog-heading h2 {
+         font-size: 28px;
+     }
+
+     .blog .blog-heading h6 {
+         font-size: 24px;
+     }
+
+     input {
+         padding: 10px;
+         width: 172px;
+     }
+}
